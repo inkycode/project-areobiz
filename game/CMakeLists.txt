@@ -1,0 +1,1 @@
+add_executable(game src/main/c/game/game.c)
